@@ -1,4 +1,7 @@
 This is a relational database for the bookstore BookHaven using a draw.io diagram
+Diagram link:
+https://app.diagrams.net/#Hcodenamehenny%2FBookstoreRelationalDatabase%2Fmain%2FBookHavenDatabase.drawio#%7B%22pageId%22%3A%22nJSf6LgTOg-cJYUY0rPl%22%7D
+
 Here are the features and requirements:
 
 Objective: The aim of this assignment is to apply the concepts of relational database design, normalization, and entity-relationship modeling to create an efficient and structured database for a bookstore management system, "BookHaven."
